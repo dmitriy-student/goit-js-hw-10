@@ -71,9 +71,7 @@ function countryInfoMarkup(markup) {
             <p><strong>Population:</strong> ${population}</p>
           </div>
         </div>
-      </div>
-      
-`
+      </div>`
     )
     .join('');
 }
